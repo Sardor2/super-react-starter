@@ -1,0 +1,18 @@
+{
+  "extends": ["stylelint-config-standard", "stylelint-prettier/recommended"],
+  "rules": {
+    "no-empty-source": null,
+    "declaration-empty-line-before": null,
+    "no-missing-end-of-source-newline": null,
+    "declaration-no-important": [
+      true,
+      {
+        "message": "Use of !important is prohibited! "
+      }
+    ],
+    "media-feature-name-no-unknown": null,
+    "prettier/prettier": true,
+    "media-feature-range-operator-space-after": null,
+    "media-feature-range-operator-space-before": null
+  }
+}
