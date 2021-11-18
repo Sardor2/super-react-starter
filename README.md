@@ -1,5 +1,13 @@
-# Ultimate React Starter (React-query/Airbnb esling/Material-ui/Husky)
+# Ultimate React Starter (React-query/Airbnb eslint/Material-ui/Husky)
 
+## Library Stack
+- React Query
+- Material UI
+- Airbnb React Style Guides
+- Husky pre-commit
+- Prettier 
+- styled-components
+- axios
 
 ## Beforehand
 
